@@ -1,6 +1,6 @@
 # commit fix test
 
-# this is test by yuu
+# this is test
 
 - hoge
 
